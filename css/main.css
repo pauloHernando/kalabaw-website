@@ -5,9 +5,9 @@
 
 .button {
   background-color: white;
-  opacity: 0.8;
-/*  border-radius: 5px;*/
+  opacity: 0.9;
   padding: 1em;
+  margin-bottom: 1em;
 }
 .site-logo {
   margin: 2em;
@@ -26,4 +26,50 @@
 .site-navigation-item {
   margin: 0em 0em 3em 0em;
   font-family: Courier, serif;
+}
+.tracks-menu {
+  margin: 0em 2em 2em 0em;
+  list-style: none;
+  font-family: Courier, serif;
+}
+
+.track-player {
+  margin: 0em 2em 2em 2em;
+}
+
+.tracks-lyrics {
+  background-color: white;
+  font-family: Courier, serif;
+  line-height: 2em;
+  opacity: 0.9;
+  margin: 0em 2em;
+  padding: 1em
+}
+
+sup {
+  color: red;
+  text-transform: uppercase
+}
+
+.track-title {
+  display: inline-block;
+  margin-right: 0em 2em 2em 0em;
+}
+
+.download-button {
+  display: inline-block;
+  margin-right: 2em;
+  border: 2px solid white;
+  opacity: 0.9;
+  padding: 1em;
+  color: white;
+}
+.tracks-link {
+  text-decoration: none;
+  color: black;
+}
+
+.download-link {
+  text-decoration: none;
+  color: white;
 }

@@ -17,6 +17,7 @@
 
 .site-logo {
   margin: 2em;
+  display: block;
 }
 
 .site-navigation-link {

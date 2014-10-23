@@ -51,6 +51,7 @@
   opacity: 0.9;
   margin: 0 6%;
   padding: 1em;
+  margin-bottom: 2em;
 }
 
 @media screen and (min-width: 641px) {
